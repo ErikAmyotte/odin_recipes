@@ -1,2 +1,3 @@
 # odin_recipes
-Odin basic recipe website
+This is The Odin Project: Recipes project for the foundations course.
+Completion of this project should showcase my basic HTML abilities and understanding of the git workflow.
