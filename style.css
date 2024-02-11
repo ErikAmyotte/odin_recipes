@@ -1,0 +1,30 @@
+* {background-color: goldenrod;
+font-style: fantasy, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.hgif{
+height: 90px;
+width: auto;
+}
+.header{
+     font-weight: bold;
+     font-style: italic;
+     font-size: 45px;
+ }
+
+ button{
+    background-color: grey;
+    outline: invert;
+    outline-style: double;
+    outline-offset: 2px;
+    
+ }
+
+ .hlink{
+    background-color: grey;
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+    font
+
+}
