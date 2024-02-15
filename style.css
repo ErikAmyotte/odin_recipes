@@ -11,13 +11,27 @@ width: auto;
      font-style: italic;
      font-size: 45px;
  }
-
+.body,
+.link{
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    margin: 5px 2px;
+}
+.thumb{
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    background-color: grey;
+}
  button{
     background-color: grey;
     outline: invert;
     outline-style: double;
-    outline-offset: 2px;
-    
+    outline-offset: 2px;  
  }
 
  .hlink{
@@ -25,6 +39,4 @@ width: auto;
     color: black;
     font-size: 25px;
     font-style: italic;
-    font
-
 }
